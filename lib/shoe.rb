@@ -8,6 +8,6 @@ class Shoe
     @brand
   end
 
-  
+  attr_accessor :color :
 
 end
